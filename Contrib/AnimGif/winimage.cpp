@@ -33,7 +33,7 @@
 
 #include <windows.h>
 #include <tchar.h>
-#include <fstream.h>
+#include <fstream>
 #include "winimage.h"
 
 // Error processing macro (NO-OP by default):
